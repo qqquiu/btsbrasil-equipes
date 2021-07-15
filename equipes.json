@@ -1,0 +1,531 @@
+[
+    {
+        "equipe_titulo": "4Z",
+        "equipe_logo_escura": "/assets/equipes/4zoomers.png",
+        "equipe_logo_clara": "/assets/equipes/4zoomers_claro.png",
+        "equipe_nome": "4 Zoomers"
+    },
+    {
+        "equipe_titulo": "5MM",
+        "equipe_logo_escura": "/assets/equipes/5manmidas.png",
+        "equipe_logo_clara": "/assets/equipes/5manmidas.png",
+        "equipe_nome": "5ManMidas"
+    },
+    {
+        "equipe_titulo": "[A]",
+        "equipe_logo_escura": "/assets/equipes/alliance.png",
+        "equipe_logo_clara": "/assets/equipes/alliance.png",
+        "equipe_nome": "Alliance"
+    },
+    {
+        "equipe_titulo": "Arkosh",
+        "equipe_logo_escura": "/assets/equipes/arkosh.png",
+        "equipe_logo_clara": "/assets/equipes/arkosh.png",
+        "equipe_nome": "Arkosh Gaming"
+    },
+    {
+        "equipe_titulo": "Army Geniuses",
+        "equipe_logo_escura": "/assets/equipes/army_geniuses.png",
+        "equipe_logo_clara": "/assets/equipes/army_geniuses.png",
+        "equipe_nome": "Army Geniuses"
+    },
+    {
+        "equipe_titulo": "Aster",
+        "equipe_logo_escura": "/assets/equipes/aster.png",
+        "equipe_logo_clara": "/assets/equipes/aster.png",
+        "equipe_nome": "Team Aster"
+    },
+    
+    {
+        "equipe_titulo": "Monaco",
+        "equipe_logo_escura": "/assets/equipes/monaco_gambit.png",
+        "equipe_logo_clara": "/assets/equipes/monaco_gambit.png",
+        "equipe_nome": "AS Monaco Gambit"
+    },
+    
+    {
+        "equipe_titulo": "B8",
+        "equipe_logo_escura": "/assets/equipes/b8.png",
+        "equipe_logo_clara": "/assets/equipes/b8.png",
+        "equipe_nome": "B8"
+    },
+    {
+        "equipe_titulo": "beastcoast",
+        "equipe_logo_escura": "/assets/equipes/beastcoast.png",
+        "equipe_logo_clara": "/assets/equipes/beastcoast.png",
+        "equipe_nome": "beastcoast"
+    },
+    {
+        "equipe_titulo": "BINOMISTAS",
+        "equipe_logo_escura": "/assets/equipes/binomistas.png",
+        "equipe_logo_clara": "/assets/equipes/binomistas.png",
+        "equipe_nome": "BINOMISTAS"
+    },
+    {
+        "equipe_titulo": "Black N Yellow",
+        "equipe_logo_escura": "/assets/equipes/black_n_yellow.png",
+        "equipe_logo_clara": "/assets/equipes/black_n_yellow.png",
+        "equipe_nome": "Black N Yellow"
+    },
+    {
+        "equipe_titulo": "BOOM",
+        "equipe_logo_escura": "/assets/equipes/boom_esports.png",
+        "equipe_logo_clara": "/assets/equipes/boom_esports.png",
+        "equipe_nome": "BOOM Esports"
+    },
+    {
+        "equipe_titulo": "Brame",
+        "equipe_logo_escura": "/assets/equipes/brame.png",
+        "equipe_logo_clara": "/assets/equipes/brame.png",
+        "equipe_nome": "Brame"
+    },
+    {
+        "equipe_titulo": "CDEC",
+        "equipe_logo_escura": "/assets/equipes/cdec.png",
+        "equipe_logo_clara": "/assets/equipes/cdec.png",
+        "equipe_nome": "CDEC"
+    },
+    {
+        "equipe_titulo": "EG",
+        "equipe_logo_escura": "/assets/equipes/eg.png",
+        "equipe_logo_clara": "/assets/equipes/eg_claro.png",
+        "equipe_nome": "Evil Geniuses"
+    },
+    {
+        "equipe_titulo": "EgoBoys",
+        "equipe_logo_escura": "/assets/equipes/egoboys.png",
+        "equipe_logo_clara": "/assets/equipes/egoboys.png",
+        "equipe_nome": "EgoBoys"
+    },
+    {
+        "equipe_titulo": "Elephant",
+        "equipe_logo_escura": "/assets/equipes/elephant.png",
+        "equipe_logo_clara": "/assets/equipes/elephant.png",
+        "equipe_nome": "Elephant"
+    },
+    {
+        "equipe_titulo": "Empire",
+        "equipe_logo_escura": "/assets/equipes/empire.png",
+        "equipe_logo_clara": "/assets/equipes/empire.png",
+        "equipe_nome": "Team Empire"
+    },
+    {
+        "equipe_titulo": "Execration",
+        "equipe_logo_escura": "/assets/equipes/execration.png",
+        "equipe_logo_clara": "/assets/equipes/execration.png",
+        "equipe_nome": "Execration"
+    },
+    {
+        "equipe_titulo": "Extremum",
+        "equipe_logo_escura": "/assets/equipes/extremum.png",
+        "equipe_logo_clara": "/assets/equipes/extremum.png",
+        "equipe_nome": "Extremum"
+    },
+    {
+        "equipe_titulo": "Fantastic Five",
+        "equipe_logo_escura": "/assets/equipes/fantastic_five.png",
+        "equipe_logo_clara": "/assets/equipes/fantastic_five.png",
+        "equipe_nome": "Fantastic Five"
+    },
+    
+    {
+        "equipe_titulo": "Felt",
+        "equipe_logo_escura": "/assets/equipes/felt.png",
+        "equipe_logo_clara": "/assets/equipes/felt.png",
+        "equipe_nome": "Felt"
+    },
+    
+    {
+        "equipe_titulo": "Fnatic",
+        "equipe_logo_escura": "/assets/equipes/fnatic.png",
+        "equipe_logo_clara": "/assets/equipes/fnatic.png",
+        "equipe_nome": "Fnatic"
+    },
+    
+    {
+        "equipe_titulo": "Ghost Frogs",
+        "equipe_logo_escura": "/assets/equipes/ghost_frogs.png",
+        "equipe_logo_clara": "/assets/equipes/ghost_frogs.png",
+        "equipe_nome": "Ghost Frogs"
+    },
+    
+    {
+        "equipe_titulo": "infinity",
+        "equipe_logo_escura": "/assets/equipes/gillette_infinity.png",
+        "equipe_logo_clara": "/assets/equipes/gillette_infinity.png",
+        "equipe_nome": "Gillette Infinity"
+    },
+    
+    {
+        "equipe_titulo": "infinity",
+        "equipe_logo_escura": "/assets/equipes/gillette_infinity.png",
+        "equipe_logo_clara": "/assets/equipes/gillette_infinity.png",
+        "equipe_nome": "Gillette Infinity"
+    },
+    
+    {
+        "equipe_titulo": "G-Pride",
+        "equipe_logo_escura": "/assets/equipes/gorillazpride.png",
+        "equipe_logo_clara": "/assets/equipes/gorillazpride.png",
+        "equipe_nome": "Gorillaz Pride"
+    },
+    
+    {
+        "equipe_titulo": "HellBear Smashers",
+        "equipe_logo_escura": "/assets/equipes/hellbear_smashers.png",
+        "equipe_logo_clara": "/assets/equipes/hellbear_smashers.png",
+        "equipe_nome": "HellBear Smashers"
+    },
+    
+    {
+        "equipe_titulo": "HellRaisers",
+        "equipe_logo_escura": "/assets/equipes/hellraisers.png",
+        "equipe_logo_clara": "/assets/equipes/hellraisers.png",
+        "equipe_nome": "HellRaisers"
+    },
+    
+    {
+        "equipe_titulo": "HellRaisers",
+        "equipe_logo_escura": "/assets/equipes/hellraisers.png",
+        "equipe_logo_clara": "/assets/equipes/hellraisers.png",
+        "equipe_nome": "HellRaisers"
+    },
+    
+    {
+        "equipe_titulo": "Hippomaniacs",
+        "equipe_logo_escura": "/assets/equipes/Hippomaniacs.png",
+        "equipe_logo_clara": "/assets/equipes/Hippomaniacs.png",
+        "equipe_nome": "Hippomaniacs"
+    },
+    
+    {
+        "equipe_titulo": "Hokori",
+        "equipe_logo_escura": "/assets/equipes/hokori.png",
+        "equipe_logo_clara": "/assets/equipes/hokori.png",
+        "equipe_nome": "Hokori"
+    },
+    
+    {
+        "equipe_titulo": "IG",
+        "equipe_logo_escura": "/assets/equipes/ig.png",
+        "equipe_logo_clara": "/assets/equipes/ig_claro.png",
+        "equipe_nome": "Invictus Gaming"
+    },
+    
+    {
+        "equipe_titulo": "Incubus",
+        "equipe_logo_escura": "/assets/equipes/incubus.png",
+        "equipe_logo_clara": "/assets/equipes/incubus_claro.png",
+        "equipe_nome": "Incubus Club"
+    },
+    
+    {
+        "equipe_titulo": "Infamous",
+        "equipe_logo_escura": "/assets/equipes/infamous.png",
+        "equipe_logo_clara": "/assets/equipes/infamous.png",
+        "equipe_nome": "Infamous"
+    },
+    
+    {
+        "equipe_titulo": "Inverse",
+        "equipe_logo_escura": "/assets/equipes/inverse.png",
+        "equipe_logo_clara": "/assets/equipes/inverse.png",
+        "equipe_nome": "Inverse"
+    },
+    
+    {
+        "equipe_titulo": "Latam Defenders",
+        "equipe_logo_escura": "/assets/equipes/latam_defenders.png",
+        "equipe_logo_clara": "/assets/equipes/latam_defenders_claro.png",
+        "equipe_nome": "Latam Defenders"
+    },
+    
+    {
+        "equipe_titulo": "Liquid",
+        "equipe_logo_escura": "/assets/equipes/liquid.png",
+        "equipe_logo_clara": "/assets/equipes/liquid.png",
+        "equipe_nome": "Team Liquid"
+    },
+    
+    {
+        "equipe_titulo": "Logo Dota",
+        "equipe_logo_escura": "/assets/equipes/logo_dota.png",
+        "equipe_logo_clara": "/assets/equipes/logo_dota.png",
+        "equipe_nome": "Logo Dota"
+    },
+    
+    {
+        "equipe_titulo": "Logo Dota DPC",
+        "equipe_logo_escura": "/assets/equipes/logo_dota_DPC.png",
+        "equipe_logo_clara": "/assets/equipes/logo_dota_DPC.png",
+        "equipe_nome": "Logo Dota DPC"
+    },
+    
+    {
+        "equipe_titulo": "MG.Trust",
+        "equipe_logo_escura": "/assets/equipes/motivate_trust.png",
+        "equipe_logo_clara": "/assets/equipes/motivate_trust.png",
+        "equipe_nome": "Motivate.Trust Gaming"
+    },
+    
+    {
+        "equipe_titulo": "Nemiga",
+        "equipe_logo_escura": "/assets/equipes/nemiga.png",
+        "equipe_logo_clara": "/assets/equipes/nemiga.png",
+        "equipe_nome": "Nemiga Gaming"
+    },
+    
+    {
+        "equipe_titulo": "Nemiga",
+        "equipe_logo_escura": "/assets/equipes/nemiga.png",
+        "equipe_logo_clara": "/assets/equipes/nemiga.png",
+        "equipe_nome": "Nemiga Gaming"
+    },
+    
+    {
+        "equipe_titulo": "OB.Neon",
+        "equipe_logo_escura": "/assets/equipes/neon_esports.png",
+        "equipe_logo_clara": "/assets/equipes/neon_esports.png",
+        "equipe_nome": "OB Esports x Neon"
+    },
+    
+    {
+        "equipe_titulo": "Newbee",
+        "equipe_logo_escura": "/assets/equipes/newbee.png",
+        "equipe_logo_clara": "/assets/equipes/newbee.png",
+        "equipe_nome": "Newbee"
+    },
+    
+    {
+        "equipe_titulo": "Nigma",
+        "equipe_logo_escura": "/assets/equipes/nigma.png",
+        "equipe_logo_clara": "/assets/equipes/nigma.png",
+        "equipe_nome": "Team Nigma"
+    },
+    
+    {
+        "equipe_titulo": "Nigma",
+        "equipe_logo_escura": "/assets/equipes/nigma.png",
+        "equipe_logo_clara": "/assets/equipes/nigma.png",
+        "equipe_nome": "Team Nigma"
+    },
+    
+    {
+        "equipe_titulo": "No Bounty Hunter",
+        "equipe_logo_escura": "/assets/equipes/no_bounty_hunter.png",
+        "equipe_logo_clara": "/assets/equipes/no_bounty_hunter.png",
+        "equipe_nome": "No Bounty Hunter"
+    },
+    
+    {
+        "equipe_titulo": "NoPing",
+        "equipe_logo_escura": "/assets/equipes/noping.png",
+        "equipe_logo_clara": "/assets/equipes/noping.png",
+        "equipe_nome": "NoPing e-sports "
+    },
+    
+    {
+        "equipe_titulo": "NoPing",
+        "equipe_logo_escura": "/assets/equipes/noping.png",
+        "equipe_logo_clara": "/assets/equipes/noping.png",
+        "equipe_nome": "NoPing e-sports "
+    },
+    
+    {
+        "equipe_titulo": "OG",
+        "equipe_logo_escura": "/assets/equipes/og_rb.png",
+        "equipe_logo_clara": "/assets/equipes/og_rb.png",
+        "equipe_nome": "OG "
+    },
+    
+    {
+        "equipe_titulo": "Omega Gaming",
+        "equipe_logo_escura": "/assets/equipes/omega.png",
+        "equipe_logo_clara": "/assets/equipes/omega_claro.png",
+        "equipe_nome": "Omega Gaming"
+    },
+    
+    {
+        "equipe_titulo": "Omega Esports",
+        "equipe_logo_escura": "/assets/equipes/omega_esports.png",
+        "equipe_logo_clara": "/assets/equipes/omega_esports.png",
+        "equipe_nome": "Omega Esports"
+    },
+    
+    
+    {
+        "equipe_titulo": "PSG.LGD",
+        "equipe_logo_escura": "/assets/equipes/psg_lgd.png",
+        "equipe_logo_clara": "/assets/equipes/psg_lgd.png",
+        "equipe_nome": "PSG.LGD"
+    },
+    
+    {
+        "equipe_titulo": "QC",
+        "equipe_logo_escura": "/assets/equipes/quincycrew.png",
+        "equipe_logo_clara": "/assets/equipes/quincycrew_branco.png",
+        "equipe_nome": "Quincy Crew"
+    },
+    
+    {
+        "equipe_titulo": "RNG",
+        "equipe_logo_escura": "/assets/equipes/rng_escuro.png",
+        "equipe_logo_clara": "/assets/equipes/rng.png",
+        "equipe_nome": "Royal Never Give Up"
+    },
+    
+    {
+        "equipe_titulo": "SADBOYS",
+        "equipe_logo_escura": "/assets/equipes/sadboys_na.png",
+        "equipe_logo_clara": "/assets/equipes/sadboys_na_claro.png",
+        "equipe_nome": "SADBOYS"
+    },
+    
+    {
+        "equipe_titulo": "SG",
+        "equipe_logo_escura": "/assets/equipes/sg_esports.png",
+        "equipe_logo_clara": "/assets/equipes/sg_esports.png",
+        "equipe_nome": "SG e-sports"
+    },
+    
+    {
+        "equipe_titulo": "simply TOOBASED",
+        "equipe_logo_escura": "/assets/equipes/simply_toobased.png",
+        "equipe_logo_clara": "/assets/equipes/simply_toobased.png",
+        "equipe_nome": "simply TOOBASED"
+    },
+    
+    {
+        "equipe_titulo": "Sparking Arrow Gaming",
+        "equipe_logo_escura": "/assets/equipes/sparking_arrow.png",
+        "equipe_logo_clara": "/assets/equipes/sparking_arrow.png",
+        "equipe_nome": "Sparking Arrow Gaming"
+    },
+    
+    {
+        "equipe_titulo": "T1",
+        "equipe_logo_escura": "/assets/equipes/t1.png",
+        "equipe_logo_clara": "/assets/equipes/t1.png",
+        "equipe_nome": "T1"
+    },
+    
+    {
+        "equipe_titulo": "Team Chronos",
+        "equipe_logo_escura": "/assets/equipes/team_chronos.png",
+        "equipe_logo_clara": "/assets/equipes/team_chronos.png",
+        "equipe_nome": "Team Chronos"
+    },
+    
+    {
+        "equipe_titulo": "Team DogChamp",
+        "equipe_logo_escura": "/assets/equipes/team_dogchamp.png",
+        "equipe_logo_clara": "/assets/equipes/team_dogchamp.png",
+        "equipe_nome": "Team DogChamp"
+    },
+    
+    {
+        "equipe_titulo": "Team SMG",
+        "equipe_logo_escura": "/assets/equipes/team_smg.png",
+        "equipe_logo_clara": "/assets/equipes/team_smg.png",
+        "equipe_nome": "Team SMG"
+    },
+    
+    {
+        "equipe_titulo": "Team Spirit",
+        "equipe_logo_escura": "/assets/equipes/team_spirit.png",
+        "equipe_logo_clara": "/assets/equipes/team_spirit_claro.png",
+        "equipe_nome": "Team Spirit"
+    },
+    
+    {
+        "equipe_titulo": "Team Secrect",
+        "equipe_logo_escura": "/assets/equipes/secret.png",
+        "equipe_logo_clara": "/assets/equipes/secret_claro.png",
+        "equipe_nome": "Team Secrect"
+    },
+    
+    
+    {
+        "equipe_titulo": "Team Unique",
+        "equipe_logo_escura": "/assets/equipes/team_unique.png",
+        "equipe_logo_clara": "/assets/equipes/team_unique.png",
+        "equipe_nome": "Team Unique"
+    },
+    
+    {
+        "equipe_titulo": "Team Unknown",
+        "equipe_logo_escura": "/assets/equipes/unknown.png",
+        "equipe_logo_clara": "/assets/equipes/unknown_claro.png",
+        "equipe_nome": "Team Unknown"
+    },
+    
+    {
+        "equipe_titulo": "The Cut",
+        "equipe_logo_escura": "/assets/equipes/the_cut.png",
+        "equipe_logo_clara": "/assets/equipes/the_cut.png",
+        "equipe_nome": "The Cut"
+    },
+    
+    {
+        "equipe_titulo": "Thunder Predator",
+        "equipe_logo_escura": "/assets/equipes/thunderp.png",
+        "equipe_logo_clara": "/assets/equipes/thunderp_claro.png",
+        "equipe_nome": "Thunder Predator"
+    },
+    
+    {
+        "equipe_titulo": "TNC",
+        "equipe_logo_escura": "/assets/equipes/tnc.png",
+        "equipe_logo_clara": "/assets/equipes/tnc.png",
+        "equipe_nome": "TNC Predator"
+    },
+    
+    {
+        "equipe_titulo": "Tundra",
+        "equipe_logo_escura": "/assets/equipes/Tundra.png",
+        "equipe_logo_clara": "/assets/equipes/Tundra.png",
+        "equipe_nome": "Tundra"
+    },
+    
+    {
+        "equipe_titulo": "Undying",
+        "equipe_logo_escura": "/assets/equipes/undying_NA.png",
+        "equipe_logo_clara": "/assets/equipes/undying_NA.png",
+        "equipe_nome": "Undying"
+    },
+    
+    {
+        "equipe_titulo": "Vici Gaming",
+        "equipe_logo_escura": "/assets/equipes/vici.png",
+        "equipe_logo_clara": "/assets/equipes/vici.png",
+        "equipe_nome": "Vici Gaming"
+    },
+    
+    {
+        "equipe_titulo": "Viking.gg",
+        "equipe_logo_escura": "/assets/equipes/vikingg.png",
+        "equipe_logo_clara": "/assets/equipes/vikingg_branco.png",
+        "equipe_nome": "Viking.gg"
+    },
+    
+    {
+        "equipe_titulo": "VP",
+        "equipe_logo_escura": "/assets/equipes/virtuspro.png",
+        "equipe_logo_clara": "/assets/equipes/virtuspro.png",
+        "equipe_nome": "Virtus.Pro"
+    },
+    
+    {
+        "equipe_titulo": "Visagerino",
+        "equipe_logo_escura": "/assets/equipes/visagerino.png",
+        "equipe_logo_clara": "/assets/equipes/visagerino.png",
+        "equipe_nome": "Visagerino"
+    },
+    
+    {
+        "equipe_titulo": "Winstrike",
+        "equipe_logo_escura": "/assets/equipes/winstrike.png",
+        "equipe_logo_clara": "/assets/equipes/winstrike.png",
+        "equipe_nome": "Winstrike"
+    }        
+]
