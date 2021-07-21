@@ -1,531 +1,531 @@
 [
     {
         "equipe_titulo": "4Z",
-        "equipe_logo_escura": "/equipes/4zoomers.png",
-        "equipe_logo_clara": "/equipes/4zoomers_claro.png",
+        "equipe_logo_escura": "/dota/4zoomers.png",
+        "equipe_logo_clara": "/dota/4zoomers_claro.png",
         "equipe_nome": "4 Zoomers"
     },
     {
         "equipe_titulo": "5MM",
-        "equipe_logo_escura": "/equipes/5manmidas.png",
-        "equipe_logo_clara": "/equipes/5manmidas.png",
+        "equipe_logo_escura": "/dota/5manmidas.png",
+        "equipe_logo_clara": "/dota/5manmidas.png",
         "equipe_nome": "5ManMidas"
     },
     {
         "equipe_titulo": "[A]",
-        "equipe_logo_escura": "/equipes/alliance.png",
-        "equipe_logo_clara": "/equipes/alliance.png",
+        "equipe_logo_escura": "/dota/alliance.png",
+        "equipe_logo_clara": "/dota/alliance.png",
         "equipe_nome": "Alliance"
     },
     {
         "equipe_titulo": "Arkosh",
-        "equipe_logo_escura": "/equipes/arkosh.png",
-        "equipe_logo_clara": "/equipes/arkosh.png",
+        "equipe_logo_escura": "/dota/arkosh.png",
+        "equipe_logo_clara": "/dota/arkosh.png",
         "equipe_nome": "Arkosh Gaming"
     },
     {
         "equipe_titulo": "Army Geniuses",
-        "equipe_logo_escura": "/equipes/army_geniuses.png",
-        "equipe_logo_clara": "/equipes/army_geniuses.png",
+        "equipe_logo_escura": "/dota/army_geniuses.png",
+        "equipe_logo_clara": "/dota/army_geniuses.png",
         "equipe_nome": "Army Geniuses"
     },
     {
         "equipe_titulo": "Aster",
-        "equipe_logo_escura": "/equipes/aster.png",
-        "equipe_logo_clara": "/equipes/aster.png",
+        "equipe_logo_escura": "/dota/aster.png",
+        "equipe_logo_clara": "/dota/aster.png",
         "equipe_nome": "Team Aster"
     },
     
     {
         "equipe_titulo": "Monaco",
-        "equipe_logo_escura": "/equipes/monaco_gambit.png",
-        "equipe_logo_clara": "/equipes/monaco_gambit.png",
+        "equipe_logo_escura": "/dota/monaco_gambit.png",
+        "equipe_logo_clara": "/dota/monaco_gambit.png",
         "equipe_nome": "AS Monaco Gambit"
     },
     
     {
         "equipe_titulo": "B8",
-        "equipe_logo_escura": "/equipes/b8.png",
-        "equipe_logo_clara": "/equipes/b8.png",
+        "equipe_logo_escura": "/dota/b8.png",
+        "equipe_logo_clara": "/dota/b8.png",
         "equipe_nome": "B8"
     },
     {
         "equipe_titulo": "beastcoast",
-        "equipe_logo_escura": "/equipes/beastcoast.png",
-        "equipe_logo_clara": "/equipes/beastcoast.png",
+        "equipe_logo_escura": "/dota/beastcoast.png",
+        "equipe_logo_clara": "/dota/beastcoast.png",
         "equipe_nome": "beastcoast"
     },
     {
         "equipe_titulo": "BINOMISTAS",
-        "equipe_logo_escura": "/equipes/binomistas.png",
-        "equipe_logo_clara": "/equipes/binomistas.png",
+        "equipe_logo_escura": "/dota/binomistas.png",
+        "equipe_logo_clara": "/dota/binomistas.png",
         "equipe_nome": "BINOMISTAS"
     },
     {
         "equipe_titulo": "Black N Yellow",
-        "equipe_logo_escura": "/equipes/black_n_yellow.png",
-        "equipe_logo_clara": "/equipes/black_n_yellow.png",
+        "equipe_logo_escura": "/dota/black_n_yellow.png",
+        "equipe_logo_clara": "/dota/black_n_yellow.png",
         "equipe_nome": "Black N Yellow"
     },
     {
         "equipe_titulo": "BOOM",
-        "equipe_logo_escura": "/equipes/boom_esports.png",
-        "equipe_logo_clara": "/equipes/boom_esports.png",
+        "equipe_logo_escura": "/dota/boom_esports.png",
+        "equipe_logo_clara": "/dota/boom_esports.png",
         "equipe_nome": "BOOM Esports"
     },
     {
         "equipe_titulo": "Brame",
-        "equipe_logo_escura": "/equipes/brame.png",
-        "equipe_logo_clara": "/equipes/brame.png",
+        "equipe_logo_escura": "/dota/brame.png",
+        "equipe_logo_clara": "/dota/brame.png",
         "equipe_nome": "Brame"
     },
     {
         "equipe_titulo": "CDEC",
-        "equipe_logo_escura": "/equipes/cdec.png",
-        "equipe_logo_clara": "/equipes/cdec.png",
+        "equipe_logo_escura": "/dota/cdec.png",
+        "equipe_logo_clara": "/dota/cdec.png",
         "equipe_nome": "CDEC"
     },
     {
         "equipe_titulo": "EG",
-        "equipe_logo_escura": "/equipes/eg.png",
-        "equipe_logo_clara": "/equipes/eg_claro.png",
+        "equipe_logo_escura": "/dota/eg.png",
+        "equipe_logo_clara": "/dota/eg_claro.png",
         "equipe_nome": "Evil Geniuses"
     },
     {
         "equipe_titulo": "EgoBoys",
-        "equipe_logo_escura": "/equipes/egoboys.png",
-        "equipe_logo_clara": "/equipes/egoboys.png",
+        "equipe_logo_escura": "/dota/egoboys.png",
+        "equipe_logo_clara": "/dota/egoboys.png",
         "equipe_nome": "EgoBoys"
     },
     {
         "equipe_titulo": "Elephant",
-        "equipe_logo_escura": "/equipes/elephant.png",
-        "equipe_logo_clara": "/equipes/elephant.png",
+        "equipe_logo_escura": "/dota/elephant.png",
+        "equipe_logo_clara": "/dota/elephant.png",
         "equipe_nome": "Elephant"
     },
     {
         "equipe_titulo": "Empire",
-        "equipe_logo_escura": "/equipes/empire.png",
-        "equipe_logo_clara": "/equipes/empire.png",
+        "equipe_logo_escura": "/dota/empire.png",
+        "equipe_logo_clara": "/dota/empire.png",
         "equipe_nome": "Team Empire"
     },
     {
         "equipe_titulo": "Execration",
-        "equipe_logo_escura": "/equipes/execration.png",
-        "equipe_logo_clara": "/equipes/execration.png",
+        "equipe_logo_escura": "/dota/execration.png",
+        "equipe_logo_clara": "/dota/execration.png",
         "equipe_nome": "Execration"
     },
     {
         "equipe_titulo": "Extremum",
-        "equipe_logo_escura": "/equipes/extremum.png",
-        "equipe_logo_clara": "/equipes/extremum.png",
+        "equipe_logo_escura": "/dota/extremum.png",
+        "equipe_logo_clara": "/dota/extremum.png",
         "equipe_nome": "Extremum"
     },
     {
         "equipe_titulo": "Fantastic Five",
-        "equipe_logo_escura": "/equipes/fantastic_five.png",
-        "equipe_logo_clara": "/equipes/fantastic_five.png",
+        "equipe_logo_escura": "/dota/fantastic_five.png",
+        "equipe_logo_clara": "/dota/fantastic_five.png",
         "equipe_nome": "Fantastic Five"
     },
     
     {
         "equipe_titulo": "Felt",
-        "equipe_logo_escura": "/equipes/felt.png",
-        "equipe_logo_clara": "/equipes/felt.png",
+        "equipe_logo_escura": "/dota/felt.png",
+        "equipe_logo_clara": "/dota/felt.png",
         "equipe_nome": "Felt"
     },
     
     {
         "equipe_titulo": "Fnatic",
-        "equipe_logo_escura": "/equipes/fnatic.png",
-        "equipe_logo_clara": "/equipes/fnatic.png",
+        "equipe_logo_escura": "/dota/fnatic.png",
+        "equipe_logo_clara": "/dota/fnatic.png",
         "equipe_nome": "Fnatic"
     },
     
     {
         "equipe_titulo": "Ghost Frogs",
-        "equipe_logo_escura": "/equipes/ghost_frogs.png",
-        "equipe_logo_clara": "/equipes/ghost_frogs.png",
+        "equipe_logo_escura": "/dota/ghost_frogs.png",
+        "equipe_logo_clara": "/dota/ghost_frogs.png",
         "equipe_nome": "Ghost Frogs"
     },
     
     {
         "equipe_titulo": "infinity",
-        "equipe_logo_escura": "/equipes/gillette_infinity.png",
-        "equipe_logo_clara": "/equipes/gillette_infinity.png",
+        "equipe_logo_escura": "/dota/gillette_infinity.png",
+        "equipe_logo_clara": "/dota/gillette_infinity.png",
         "equipe_nome": "Gillette Infinity"
     },
     
     {
         "equipe_titulo": "infinity",
-        "equipe_logo_escura": "/equipes/gillette_infinity.png",
-        "equipe_logo_clara": "/equipes/gillette_infinity.png",
+        "equipe_logo_escura": "/dota/gillette_infinity.png",
+        "equipe_logo_clara": "/dota/gillette_infinity.png",
         "equipe_nome": "Gillette Infinity"
     },
     
     {
         "equipe_titulo": "G-Pride",
-        "equipe_logo_escura": "/equipes/gorillazpride.png",
-        "equipe_logo_clara": "/equipes/gorillazpride.png",
+        "equipe_logo_escura": "/dota/gorillazpride.png",
+        "equipe_logo_clara": "/dota/gorillazpride.png",
         "equipe_nome": "Gorillaz Pride"
     },
     
     {
         "equipe_titulo": "HellBear Smashers",
-        "equipe_logo_escura": "/equipes/hellbear_smashers.png",
-        "equipe_logo_clara": "/equipes/hellbear_smashers.png",
+        "equipe_logo_escura": "/dota/hellbear_smashers.png",
+        "equipe_logo_clara": "/dota/hellbear_smashers.png",
         "equipe_nome": "HellBear Smashers"
     },
     
     {
         "equipe_titulo": "HellRaisers",
-        "equipe_logo_escura": "/equipes/hellraisers.png",
-        "equipe_logo_clara": "/equipes/hellraisers.png",
+        "equipe_logo_escura": "/dota/hellraisers.png",
+        "equipe_logo_clara": "/dota/hellraisers.png",
         "equipe_nome": "HellRaisers"
     },
     
     {
         "equipe_titulo": "HellRaisers",
-        "equipe_logo_escura": "/equipes/hellraisers.png",
-        "equipe_logo_clara": "/equipes/hellraisers.png",
+        "equipe_logo_escura": "/dota/hellraisers.png",
+        "equipe_logo_clara": "/dota/hellraisers.png",
         "equipe_nome": "HellRaisers"
     },
     
     {
         "equipe_titulo": "Hippomaniacs",
-        "equipe_logo_escura": "/equipes/Hippomaniacs.png",
-        "equipe_logo_clara": "/equipes/Hippomaniacs.png",
+        "equipe_logo_escura": "/dota/Hippomaniacs.png",
+        "equipe_logo_clara": "/dota/Hippomaniacs.png",
         "equipe_nome": "Hippomaniacs"
     },
     
     {
         "equipe_titulo": "Hokori",
-        "equipe_logo_escura": "/equipes/hokori.png",
-        "equipe_logo_clara": "/equipes/hokori.png",
+        "equipe_logo_escura": "/dota/hokori.png",
+        "equipe_logo_clara": "/dota/hokori.png",
         "equipe_nome": "Hokori"
     },
     
     {
         "equipe_titulo": "IG",
-        "equipe_logo_escura": "/equipes/ig.png",
-        "equipe_logo_clara": "/equipes/ig_claro.png",
+        "equipe_logo_escura": "/dota/ig.png",
+        "equipe_logo_clara": "/dota/ig_claro.png",
         "equipe_nome": "Invictus Gaming"
     },
     
     {
         "equipe_titulo": "Incubus",
-        "equipe_logo_escura": "/equipes/incubus.png",
-        "equipe_logo_clara": "/equipes/incubus_claro.png",
+        "equipe_logo_escura": "/dota/incubus.png",
+        "equipe_logo_clara": "/dota/incubus_claro.png",
         "equipe_nome": "Incubus Club"
     },
     
     {
         "equipe_titulo": "Infamous",
-        "equipe_logo_escura": "/equipes/infamous.png",
-        "equipe_logo_clara": "/equipes/infamous.png",
+        "equipe_logo_escura": "/dota/infamous.png",
+        "equipe_logo_clara": "/dota/infamous.png",
         "equipe_nome": "Infamous"
     },
     
     {
         "equipe_titulo": "Inverse",
-        "equipe_logo_escura": "/equipes/inverse.png",
-        "equipe_logo_clara": "/equipes/inverse.png",
+        "equipe_logo_escura": "/dota/inverse.png",
+        "equipe_logo_clara": "/dota/inverse.png",
         "equipe_nome": "Inverse"
     },
     
     {
         "equipe_titulo": "Latam Defenders",
-        "equipe_logo_escura": "/equipes/latam_defenders.png",
-        "equipe_logo_clara": "/equipes/latam_defenders_claro.png",
+        "equipe_logo_escura": "/dota/latam_defenders.png",
+        "equipe_logo_clara": "/dota/latam_defenders_claro.png",
         "equipe_nome": "Latam Defenders"
     },
     
     {
         "equipe_titulo": "Liquid",
-        "equipe_logo_escura": "/equipes/liquid.png",
-        "equipe_logo_clara": "/equipes/liquid.png",
+        "equipe_logo_escura": "/dota/liquid.png",
+        "equipe_logo_clara": "/dota/liquid.png",
         "equipe_nome": "Team Liquid"
     },
     
     {
         "equipe_titulo": "Logo Dota",
-        "equipe_logo_escura": "/equipes/logo_dota.png",
-        "equipe_logo_clara": "/equipes/logo_dota.png",
+        "equipe_logo_escura": "/dota/logo_dota.png",
+        "equipe_logo_clara": "/dota/logo_dota.png",
         "equipe_nome": "Logo Dota"
     },
     
     {
         "equipe_titulo": "Logo Dota DPC",
-        "equipe_logo_escura": "/equipes/logo_dota_DPC.png",
-        "equipe_logo_clara": "/equipes/logo_dota_DPC.png",
+        "equipe_logo_escura": "/dota/logo_dota_DPC.png",
+        "equipe_logo_clara": "/dota/logo_dota_DPC.png",
         "equipe_nome": "Logo Dota DPC"
     },
     
     {
         "equipe_titulo": "MG.Trust",
-        "equipe_logo_escura": "/equipes/motivate_trust.png",
-        "equipe_logo_clara": "/equipes/motivate_trust.png",
+        "equipe_logo_escura": "/dota/motivate_trust.png",
+        "equipe_logo_clara": "/dota/motivate_trust.png",
         "equipe_nome": "Motivate.Trust Gaming"
     },
     
     {
         "equipe_titulo": "Nemiga",
-        "equipe_logo_escura": "/equipes/nemiga.png",
-        "equipe_logo_clara": "/equipes/nemiga.png",
+        "equipe_logo_escura": "/dota/nemiga.png",
+        "equipe_logo_clara": "/dota/nemiga.png",
         "equipe_nome": "Nemiga Gaming"
     },
     
     {
         "equipe_titulo": "Nemiga",
-        "equipe_logo_escura": "/equipes/nemiga.png",
-        "equipe_logo_clara": "/equipes/nemiga.png",
+        "equipe_logo_escura": "/dota/nemiga.png",
+        "equipe_logo_clara": "/dota/nemiga.png",
         "equipe_nome": "Nemiga Gaming"
     },
     
     {
         "equipe_titulo": "OB.Neon",
-        "equipe_logo_escura": "/equipes/neon_esports.png",
-        "equipe_logo_clara": "/equipes/neon_esports.png",
+        "equipe_logo_escura": "/dota/neon_esports.png",
+        "equipe_logo_clara": "/dota/neon_esports.png",
         "equipe_nome": "OB Esports x Neon"
     },
     
     {
         "equipe_titulo": "Newbee",
-        "equipe_logo_escura": "/equipes/newbee.png",
-        "equipe_logo_clara": "/equipes/newbee.png",
+        "equipe_logo_escura": "/dota/newbee.png",
+        "equipe_logo_clara": "/dota/newbee.png",
         "equipe_nome": "Newbee"
     },
     
     {
         "equipe_titulo": "Nigma",
-        "equipe_logo_escura": "/equipes/nigma.png",
-        "equipe_logo_clara": "/equipes/nigma.png",
+        "equipe_logo_escura": "/dota/nigma.png",
+        "equipe_logo_clara": "/dota/nigma.png",
         "equipe_nome": "Team Nigma"
     },
     
     {
         "equipe_titulo": "Nigma",
-        "equipe_logo_escura": "/equipes/nigma.png",
-        "equipe_logo_clara": "/equipes/nigma.png",
+        "equipe_logo_escura": "/dota/nigma.png",
+        "equipe_logo_clara": "/dota/nigma.png",
         "equipe_nome": "Team Nigma"
     },
     
     {
         "equipe_titulo": "No Bounty Hunter",
-        "equipe_logo_escura": "/equipes/no_bounty_hunter.png",
-        "equipe_logo_clara": "/equipes/no_bounty_hunter.png",
+        "equipe_logo_escura": "/dota/no_bounty_hunter.png",
+        "equipe_logo_clara": "/dota/no_bounty_hunter.png",
         "equipe_nome": "No Bounty Hunter"
     },
     
     {
         "equipe_titulo": "NoPing",
-        "equipe_logo_escura": "/equipes/noping.png",
-        "equipe_logo_clara": "/equipes/noping.png",
+        "equipe_logo_escura": "/dota/noping.png",
+        "equipe_logo_clara": "/dota/noping.png",
         "equipe_nome": "NoPing e-sports "
     },
     
     {
         "equipe_titulo": "NoPing",
-        "equipe_logo_escura": "/equipes/noping.png",
-        "equipe_logo_clara": "/equipes/noping.png",
+        "equipe_logo_escura": "/dota/noping.png",
+        "equipe_logo_clara": "/dota/noping.png",
         "equipe_nome": "NoPing e-sports "
     },
     
     {
         "equipe_titulo": "OG",
-        "equipe_logo_escura": "/equipes/og_rb.png",
-        "equipe_logo_clara": "/equipes/og_rb.png",
+        "equipe_logo_escura": "/dota/og_rb.png",
+        "equipe_logo_clara": "/dota/og_rb.png",
         "equipe_nome": "OG "
     },
     
     {
         "equipe_titulo": "Omega Gaming",
-        "equipe_logo_escura": "/equipes/omega.png",
-        "equipe_logo_clara": "/equipes/omega_claro.png",
+        "equipe_logo_escura": "/dota/omega.png",
+        "equipe_logo_clara": "/dota/omega_claro.png",
         "equipe_nome": "Omega Gaming"
     },
     
     {
         "equipe_titulo": "Omega Esports",
-        "equipe_logo_escura": "/equipes/omega_esports.png",
-        "equipe_logo_clara": "/equipes/omega_esports.png",
+        "equipe_logo_escura": "/dota/omega_esports.png",
+        "equipe_logo_clara": "/dota/omega_esports.png",
         "equipe_nome": "Omega Esports"
     },
     
     
     {
         "equipe_titulo": "PSG.LGD",
-        "equipe_logo_escura": "/equipes/psg_lgd.png",
-        "equipe_logo_clara": "/equipes/psg_lgd.png",
+        "equipe_logo_escura": "/dota/psg_lgd.png",
+        "equipe_logo_clara": "/dota/psg_lgd.png",
         "equipe_nome": "PSG.LGD"
     },
     
     {
         "equipe_titulo": "QC",
-        "equipe_logo_escura": "/equipes/quincycrew.png",
-        "equipe_logo_clara": "/equipes/quincycrew_branco.png",
+        "equipe_logo_escura": "/dota/quincycrew.png",
+        "equipe_logo_clara": "/dota/quincycrew_branco.png",
         "equipe_nome": "Quincy Crew"
     },
     
     {
         "equipe_titulo": "RNG",
-        "equipe_logo_escura": "/equipes/rng_escuro.png",
-        "equipe_logo_clara": "/equipes/rng.png",
+        "equipe_logo_escura": "/dota/rng_escuro.png",
+        "equipe_logo_clara": "/dota/rng.png",
         "equipe_nome": "Royal Never Give Up"
     },
     
     {
         "equipe_titulo": "SADBOYS",
-        "equipe_logo_escura": "/equipes/sadboys_na.png",
-        "equipe_logo_clara": "/equipes/sadboys_na_claro.png",
+        "equipe_logo_escura": "/dota/sadboys_na.png",
+        "equipe_logo_clara": "/dota/sadboys_na_claro.png",
         "equipe_nome": "SADBOYS"
     },
     
     {
         "equipe_titulo": "SG",
-        "equipe_logo_escura": "/equipes/sg_esports.png",
-        "equipe_logo_clara": "/equipes/sg_esports.png",
+        "equipe_logo_escura": "/dota/sg_esports.png",
+        "equipe_logo_clara": "/dota/sg_esports.png",
         "equipe_nome": "SG e-sports"
     },
     
     {
         "equipe_titulo": "simply TOOBASED",
-        "equipe_logo_escura": "/equipes/simply_toobased.png",
-        "equipe_logo_clara": "/equipes/simply_toobased.png",
+        "equipe_logo_escura": "/dota/simply_toobased.png",
+        "equipe_logo_clara": "/dota/simply_toobased.png",
         "equipe_nome": "simply TOOBASED"
     },
     
     {
         "equipe_titulo": "Sparking Arrow Gaming",
-        "equipe_logo_escura": "/equipes/sparking_arrow.png",
-        "equipe_logo_clara": "/equipes/sparking_arrow.png",
+        "equipe_logo_escura": "/dota/sparking_arrow.png",
+        "equipe_logo_clara": "/dota/sparking_arrow.png",
         "equipe_nome": "Sparking Arrow Gaming"
     },
     
     {
         "equipe_titulo": "T1",
-        "equipe_logo_escura": "/equipes/t1.png",
-        "equipe_logo_clara": "/equipes/t1.png",
+        "equipe_logo_escura": "/dota/t1.png",
+        "equipe_logo_clara": "/dota/t1.png",
         "equipe_nome": "T1"
     },
     
     {
         "equipe_titulo": "Team Chronos",
-        "equipe_logo_escura": "/equipes/team_chronos.png",
-        "equipe_logo_clara": "/equipes/team_chronos.png",
+        "equipe_logo_escura": "/dota/team_chronos.png",
+        "equipe_logo_clara": "/dota/team_chronos.png",
         "equipe_nome": "Team Chronos"
     },
     
     {
         "equipe_titulo": "Team DogChamp",
-        "equipe_logo_escura": "/equipes/team_dogchamp.png",
-        "equipe_logo_clara": "/equipes/team_dogchamp.png",
+        "equipe_logo_escura": "/dota/team_dogchamp.png",
+        "equipe_logo_clara": "/dota/team_dogchamp.png",
         "equipe_nome": "Team DogChamp"
     },
     
     {
         "equipe_titulo": "Team SMG",
-        "equipe_logo_escura": "/equipes/team_smg.png",
-        "equipe_logo_clara": "/equipes/team_smg.png",
+        "equipe_logo_escura": "/dota/team_smg.png",
+        "equipe_logo_clara": "/dota/team_smg.png",
         "equipe_nome": "Team SMG"
     },
     
     {
         "equipe_titulo": "Team Spirit",
-        "equipe_logo_escura": "/equipes/team_spirit.png",
-        "equipe_logo_clara": "/equipes/team_spirit_claro.png",
+        "equipe_logo_escura": "/dota/team_spirit.png",
+        "equipe_logo_clara": "/dota/team_spirit_claro.png",
         "equipe_nome": "Team Spirit"
     },
     
     {
         "equipe_titulo": "Team Secrect",
-        "equipe_logo_escura": "/equipes/secret.png",
-        "equipe_logo_clara": "/equipes/secret_claro.png",
+        "equipe_logo_escura": "/dota/secret.png",
+        "equipe_logo_clara": "/dota/secret_claro.png",
         "equipe_nome": "Team Secrect"
     },
     
     
     {
         "equipe_titulo": "Team Unique",
-        "equipe_logo_escura": "/equipes/team_unique.png",
-        "equipe_logo_clara": "/equipes/team_unique.png",
+        "equipe_logo_escura": "/dota/team_unique.png",
+        "equipe_logo_clara": "/dota/team_unique.png",
         "equipe_nome": "Team Unique"
     },
     
     {
         "equipe_titulo": "Team Unknown",
-        "equipe_logo_escura": "/equipes/unknown.png",
-        "equipe_logo_clara": "/equipes/unknown_claro.png",
+        "equipe_logo_escura": "/dota/unknown.png",
+        "equipe_logo_clara": "/dota/unknown_claro.png",
         "equipe_nome": "Team Unknown"
     },
     
     {
         "equipe_titulo": "The Cut",
-        "equipe_logo_escura": "/equipes/the_cut.png",
-        "equipe_logo_clara": "/equipes/the_cut.png",
+        "equipe_logo_escura": "/dota/the_cut.png",
+        "equipe_logo_clara": "/dota/the_cut.png",
         "equipe_nome": "The Cut"
     },
     
     {
         "equipe_titulo": "Thunder Predator",
-        "equipe_logo_escura": "/equipes/thunderp.png",
-        "equipe_logo_clara": "/equipes/thunderp_claro.png",
+        "equipe_logo_escura": "/dota/thunderp.png",
+        "equipe_logo_clara": "/dota/thunderp_claro.png",
         "equipe_nome": "Thunder Predator"
     },
     
     {
         "equipe_titulo": "TNC",
-        "equipe_logo_escura": "/equipes/tnc.png",
-        "equipe_logo_clara": "/equipes/tnc.png",
+        "equipe_logo_escura": "/dota/tnc.png",
+        "equipe_logo_clara": "/dota/tnc.png",
         "equipe_nome": "TNC Predator"
     },
     
     {
         "equipe_titulo": "Tundra",
-        "equipe_logo_escura": "/equipes/Tundra.png",
-        "equipe_logo_clara": "/equipes/Tundra.png",
+        "equipe_logo_escura": "/dota/Tundra.png",
+        "equipe_logo_clara": "/dota/Tundra.png",
         "equipe_nome": "Tundra"
     },
     
     {
         "equipe_titulo": "Undying",
-        "equipe_logo_escura": "/equipes/undying_NA.png",
-        "equipe_logo_clara": "/equipes/undying_NA.png",
+        "equipe_logo_escura": "/dota/undying_NA.png",
+        "equipe_logo_clara": "/dota/undying_NA.png",
         "equipe_nome": "Undying"
     },
     
     {
         "equipe_titulo": "Vici Gaming",
-        "equipe_logo_escura": "/equipes/vici.png",
-        "equipe_logo_clara": "/equipes/vici.png",
+        "equipe_logo_escura": "/dota/vici.png",
+        "equipe_logo_clara": "/dota/vici.png",
         "equipe_nome": "Vici Gaming"
     },
     
     {
         "equipe_titulo": "Viking.gg",
-        "equipe_logo_escura": "/equipes/vikingg.png",
-        "equipe_logo_clara": "/equipes/vikingg_branco.png",
+        "equipe_logo_escura": "/dota/vikingg.png",
+        "equipe_logo_clara": "/dota/vikingg_branco.png",
         "equipe_nome": "Viking.gg"
     },
     
     {
         "equipe_titulo": "VP",
-        "equipe_logo_escura": "/equipes/virtuspro.png",
-        "equipe_logo_clara": "/equipes/virtuspro.png",
+        "equipe_logo_escura": "/dota/virtuspro.png",
+        "equipe_logo_clara": "/dota/virtuspro.png",
         "equipe_nome": "Virtus.Pro"
     },
     
     {
         "equipe_titulo": "Visagerino",
-        "equipe_logo_escura": "/equipes/visagerino.png",
-        "equipe_logo_clara": "/equipes/visagerino.png",
+        "equipe_logo_escura": "/dota/visagerino.png",
+        "equipe_logo_clara": "/dota/visagerino.png",
         "equipe_nome": "Visagerino"
     },
     
     {
         "equipe_titulo": "Winstrike",
-        "equipe_logo_escura": "/equipes/winstrike.png",
-        "equipe_logo_clara": "/equipes/winstrike.png",
+        "equipe_logo_escura": "/dota/winstrike.png",
+        "equipe_logo_clara": "/dota/winstrike.png",
         "equipe_nome": "Winstrike"
     }        
 ]
